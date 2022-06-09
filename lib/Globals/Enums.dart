@@ -1,0 +1,4 @@
+enum ReturnedType {
+  Value,
+  CorrectOrWrong
+}
