@@ -1,6 +1,6 @@
 # dictation_app
 
-A new Flutter application.
+This project is a Flutter application that helps you prepare for all the dictations you have in any language.
 
 ## Getting Started
 
