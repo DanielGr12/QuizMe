@@ -1,16 +1,11 @@
-# dictation_app
+# Quiz Me
 
 This project is a Flutter application that helps you prepare for all the dictations you have in any language.
 
-## Getting Started
+First, you need to upload the words and you can choose if you want to write the translation or to auto translate(you can use this option only if you're connected to the internet).
 
-This project is a starting point for a Flutter application.
+After you have a dictation, you can choose different ways to test your knowledge, you can choose to be tested on the words or on the translation, you can also choose to tell the app to read aloud the words and give you time to write it on paper.
 
-A few resources to get you started if this is your first Flutter project:
+If you get all the words correct, you get a confetti.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can choose to practice only the words that you were wrong on.
