@@ -9,3 +9,6 @@ After you have a dictation, you can choose different ways to test your knowledge
 If you get all the words correct, you get a confetti.
 
 You can choose to practice only the words that you were wrong on.
+There are a lot of other features like dark mode and more.
+
+I wrote this project in 2018
